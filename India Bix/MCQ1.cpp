@@ -7,8 +7,8 @@ int main(){
 	int start=2;
 	cout << start << " ";
 	start/=2;
-	
 	cout << start << " ";
+    
 	for(int i=1; i<=5; i++ ){
 		
 		cout << "1/" << start << " ";
